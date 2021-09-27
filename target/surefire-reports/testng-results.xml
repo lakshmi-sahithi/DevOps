@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66" started-at="2021-09-24T11:15:18Z" finished-at="2021-09-24T11:15:18Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="66" started-at="2021-09-24T11:15:18Z" finished-at="2021-09-24T11:15:18Z">
+      <class name="loginTests.AppTest">
+        <test-method status="PASS" signature="invalidLoginTest()[pri:0, instance:loginTests.AppTest@1bb8443]" name="invalidLoginTest" duration-ms="18" started-at="2021-09-24T11:15:18Z" description="invalid login test" finished-at="2021-09-24T11:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:loginTests.AppTest@1bb8443]" name="validLoginTest" duration-ms="1" started-at="2021-09-24T11:15:18Z" description="valid test" finished-at="2021-09-24T11:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+      </class> <!-- loginTests.AppTest -->
+      <class name="loginTests.ComparisionTC">
+        <test-method status="PASS" signature="f()[pri:0, instance:loginTests.ComparisionTC@176dcec]" name="f" duration-ms="0" started-at="2021-09-24T11:15:18Z" finished-at="2021-09-24T11:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- loginTests.ComparisionTC -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
